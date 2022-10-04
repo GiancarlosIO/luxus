@@ -1,0 +1,12 @@
+{
+  "name": "luxus",
+  "version": "1.0.0",
+  "description": "Tools that I use in my personal projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Giancarlos Isasi",
+  "license": "ISC"
+}
